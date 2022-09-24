@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: skyblue;
+}
+form{
+  width: 400px;
+  margin: 0 auto;
+}
+input {
+  display: block;
+  width: 200px;
+  margin-bottom: 1rem;
+  margin: 0 auto 1rem auto;
+  block-size: 1rem auto;
+  background-origin: padding-box;
+  background-color: aqua;
+}
+button{
+  width: 80px;
+  margin: 0 auto;
+  background-color: aquamarine;
+}
+.sp{
+  background-color: blueviolet;
+}
+table{
+  width: 100%;
+  margin-top: 4rem;
+  border-collapse: collapse ;
+}
+th,td {  
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  border-color: black;
+  color: red;
+}
